@@ -3,7 +3,7 @@
 # execer - Operational management of Renewable Energy Community - CER - Comunità Energetica Rinnovabile
 This code provides operational management for a Renewable Energy Community (CER - Comunità Energetica Rinnovabile) composed of multiple prosumers with PV (PhotoVoltaic) generation systems as well as various energy consumers. Both prosumers and consumers are categorized into five groups—residential, offices, schools, shopping centers, and industrial sites.
 To run the code, users supply the PV generation and consumption profiles for each category. These profiles can be adjusted to simulate realistic operating scenarios. For the consumption profiles, it is also possible to define flexibility margins, allowing for demand response strategies within the CER.
-The primary goal of the code is to maximize economic returns by increasing collective self-consumption and, when beneficial, selling surplus energy to the grid—potentially tapping into specialized services that enhance the value of exported energy.
+The primary goal of the code is to maximize economic returns by increasing collective self-consumption and, when beneficial, selling surplus energy to the grid, potentially deployng into specialized services that enhance the value of exported energy.
 
 
 ##### TOOL INSTRUCTIONS ######
