@@ -1,0 +1,15 @@
+[project]
+name = "execer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.0",
+    "networkx>=3.4.2",
+    "openpyxl>=3.1.5",
+    "panda>=0.3.1",
+    "pandas>=2.2.3",
+    "pyomo>=6.8.2",
+    "scikit-learn>=1.6.0",
+]

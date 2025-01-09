@@ -1,0 +1,24 @@
+Check of Total Consumption conservation with oscillations:
+    Consumption reference                   = 756.7 kWh
+    Consumption with oscillations           = 755.6 kWh
+    Difference                              = -0.15 %
+
+Check of Total Consumption conservation with optimization:
+    Consumption with oscillations (new ref) = 755.6 kWh
+    Consumption with optimization           = 760.4 kWh
+    Difference                              = 0.64 %
+
+Comparison Total Cash Flow with optimization:
+    Cash flow reference                     = 99.5 €
+    Cash flow with optimization             = 103.1 €
+    Difference                              = 3.57 %
+
+Comparison Incentive Cash Flow with optimization:
+    Inc flow reference                      = 12.9 €
+    Inc flow with optimization              = 14.9 €
+    Difference                              = 15.63 %
+
+Total Cash Flow components with optimization:
+    Self consumption savings                = 82.5 €
+    Selling to grid                         = 6.0 €
+    Incentive                               = 14.9 €
